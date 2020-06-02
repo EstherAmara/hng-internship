@@ -1,0 +1,1 @@
+This repository is about the HNG internship, version 7. All files and code therein would be related to this internship.
